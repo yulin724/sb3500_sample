@@ -1,0 +1,7 @@
+.main         			%s0
+
+.test %s0
+
+.sbxspi_write_read %s0
+.sbxspi_wait_idle %s0
+.sbxspi_write %s0
