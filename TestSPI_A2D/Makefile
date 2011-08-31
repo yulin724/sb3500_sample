@@ -8,7 +8,7 @@ TARGET_FILE=testspi_a2d.sbx
 
 # Source files; files of the following types are supported: *.c, *.s  
 SOURCE_FILES= \
-	main.c sbxspi.c
+	main.c
 
 # All intermediate files created while building this project 
 # are stored in the following directory: 
